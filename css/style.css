@@ -153,6 +153,7 @@ body {
 }
 .works__list__item {
   padding-left: 10px;
+  margin-left: 50px;
   margin-bottom: 20px;
 }
 .works__list__title {
@@ -160,7 +161,8 @@ body {
 }
 .works__list__content {
   display: flex;
-  gap: 50px;
+  gap: 100px;
+  justify-content: center;
 }
 .works__list__link {
   display: flex;
