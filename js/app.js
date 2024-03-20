@@ -55,6 +55,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/portfolio-porject",
     vercelLink: "https://portfolio-porject-alpha.vercel.app/",
   },
+  {
+    title: "Tip Calculator(functioning)",
+    githubLink: "https://github.com/eldorahmed/tipcalculator",
+    vercelLink: "https://tipcalculator-black.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
