@@ -60,6 +60,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/tipcalculator",
     vercelLink: "https://tipcalculator-black.vercel.app/",
   },
+  {
+    title: "Champions legue (updated)",
+    githubLink: "https://github.com/eldorahmed/chempions-legue",
+    vercelLink: "https://chempions-legue.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
