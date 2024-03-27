@@ -65,6 +65,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/chempions-legue",
     vercelLink: "https://chempions-legue.vercel.app/",
   },
+  {
+    title: "Castaway",
+    githubLink: "https://github.com/eldorahmed/Castaway-project-main",
+    vercelLink: "https://castaway-project-main.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
