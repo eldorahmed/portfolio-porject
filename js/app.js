@@ -70,6 +70,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/Castaway-project-main",
     vercelLink: "https://castaway-project-main.vercel.app/",
   },
+  {
+    title: "CreateX",
+    githubLink: "https://github.com/eldorahmed/create-x.-main",
+    vercelLink: "https://create-x-main.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
