@@ -75,6 +75,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/create-x.-main",
     vercelLink: "https://create-x-main.vercel.app/",
   },
+  {
+    title: "Animations (11)",
+    githubLink: "https://github.com/eldorahmed/animation",
+    vercelLink: "https://animation-iota-taupe.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
