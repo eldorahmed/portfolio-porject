@@ -85,6 +85,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/crowfund-main",
     vercelLink: "https://crowfund-main.vercel.app/",
   },
+  {
+    title: "Exam",
+    githubLink: "https://github.com/eldorahmed/My-Team-main",
+    vercelLink: "https://my-team-main.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
