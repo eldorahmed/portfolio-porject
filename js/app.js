@@ -90,6 +90,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/My-Team-main",
     vercelLink: "https://my-team-main.vercel.app/",
   },
+  {
+    title: "JS string methods",
+    githubLink: "https://github.com/eldorahmed/2-dars-String-Methods",
+    vercelLink: "https://2-dars-string-methods.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
