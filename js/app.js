@@ -96,7 +96,7 @@ const projects = [
     vercelLink: "https://2-dars-string-methods.vercel.app/",
   },
   {
-    title: "3-dars misollar ",
+    title: "4-dars misollar ",
     githubLink: "https://github.com/eldorahmed/3-dars",
     vercelLink: "https://3-lesson-sand.vercel.app/",
   },
