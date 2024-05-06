@@ -111,9 +111,9 @@ const projects = [
     vercelLink: "https://design-portfolio-lac.vercel.app/",
   },
   {
-    title: "8-dars masalari",
-    githubLink: "https://github.com/eldorahmed/8-dars",
-    vercelLink: "https://8-dars-two.vercel.app/",
+    title: "9-dars masalari",
+    githubLink: "https://github.com/eldorahmed/9-dars",
+    vercelLink: "https://9-dars-cyan.vercel.app/",
   },
 ];
 
