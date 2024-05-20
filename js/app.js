@@ -115,6 +115,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/modal-project",
     vercelLink: "https://modal-project-green.vercel.app/",
   },
+  {
+    title: "Gradient BG Generator",
+    githubLink: "https://github.com/eldorahmed/amalyot",
+    vercelLink: "https://amalyot-xi.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
