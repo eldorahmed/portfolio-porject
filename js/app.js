@@ -120,6 +120,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/amalyot",
     vercelLink: "https://amalyot-xi.vercel.app/",
   },
+  {
+    title: "Drum Kit",
+    githubLink: "https://github.com/eldorahmed/Drum-Kit-Starting-Files",
+    vercelLink: "https://drum-kit-starting-files-theta.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
