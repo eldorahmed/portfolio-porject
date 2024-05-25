@@ -125,6 +125,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/Drum-Kit-Starting-Files",
     vercelLink: "https://drum-kit-starting-files-theta.vercel.app/",
   },
+  {
+    title: "MP3 Player",
+    githubLink: "https://github.com/eldorahmed/music-player",
+    vercelLink: "https://music-player-theta-ebon.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
