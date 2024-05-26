@@ -130,6 +130,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/music-player",
     vercelLink: "https://music-player-theta-ebon.vercel.app/",
   },
+  {
+    title: "Guess My Number",
+    githubLink: "https://github.com/eldorahmed/guessing-game",
+    vercelLink: "https://guessing-game-nine-iota.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
