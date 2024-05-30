@@ -135,6 +135,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/guessing-game",
     vercelLink: "https://guessing-game-nine-iota.vercel.app/",
   },
+  {
+    title: "TO DO app",
+    githubLink: "https://github.com/eldorahmed/to-do_app",
+    vercelLink: "https://to-do-app-alpha-lac.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
