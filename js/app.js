@@ -140,6 +140,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/to-do_app",
     vercelLink: "https://to-do-app-alpha-lac.vercel.app/",
   },
+  {
+    title: "Gradient BG",
+    githubLink: "https://github.com/eldorahmed/7-darss",
+    vercelLink: "https://7-darss.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
