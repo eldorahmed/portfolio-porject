@@ -145,6 +145,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/7-darss",
     vercelLink: "https://7-darss.vercel.app/",
   },
+  {
+    title: "Random User",
+    githubLink: "https://github.com/eldorahmed/Random-User",
+    vercelLink: "https://random-user-khaki-chi.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
