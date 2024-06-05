@@ -150,6 +150,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/Random-User",
     vercelLink: "https://random-user-khaki-chi.vercel.app/",
   },
+  {
+    title: "Weather App",
+    githubLink: "https://github.com/eldorahmed/Weather-App",
+    vercelLink: "https://weather-app-steel-seven-21.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
@@ -166,5 +171,5 @@ projects.forEach((project) => {
   linkGithub.href = project.githubLink;
   linkVercel.href = project.vercelLink;
 
-  worksList.appendChild(clone);
+  worksList.prepend(clone);
 });
