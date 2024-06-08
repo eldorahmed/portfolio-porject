@@ -155,6 +155,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/Weather-App",
     vercelLink: "https://weather-app-steel-seven-21.vercel.app/",
   },
+  {
+    title: "Shopping App",
+    githubLink: "https://github.com/eldorahmed/products-details",
+    vercelLink: "https://products-details-psi.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
