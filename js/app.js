@@ -156,9 +156,14 @@ const projects = [
     vercelLink: "https://weather-app-steel-seven-21.vercel.app/",
   },
   {
-    title: "Shopping App",
+    title: "Products Details",
     githubLink: "https://github.com/eldorahmed/products-details",
     vercelLink: "https://products-details-psi.vercel.app/",
+  },
+  {
+    title: "Online Shop(Exam)",
+    githubLink: "https://github.com/eldorahmed/online-shop",
+    vercelLink: "https://online-shop-nine-gules.vercel.app/",
   },
 ];
 
