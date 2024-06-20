@@ -165,6 +165,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/online-shop",
     vercelLink: "https://online-shop-nine-gules.vercel.app/",
   },
+  {
+    title: "Create User(project)",
+    githubLink: "https://github.com/eldorahmed/create-user",
+    vercelLink: "https://create-user-lake-six.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
