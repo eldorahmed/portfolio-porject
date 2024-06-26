@@ -175,6 +175,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/article-app",
     vercelLink: "https://article-app-six.vercel.app/",
   },
+  {
+    title: "Products Cards(5-dars)",
+    githubLink: "https://github.com/eldorahmed/5-dars-react",
+    vercelLink: "https://5-dars-react.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
