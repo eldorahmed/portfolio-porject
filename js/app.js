@@ -180,6 +180,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/5-dars-react",
     vercelLink: "https://5-dars-react.vercel.app/",
   },
+  {
+    title: "Login Page",
+    githubLink: "https://github.com/eldorahmed/7-dars-raect",
+    vercelLink: "https://7-dars-raect.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
