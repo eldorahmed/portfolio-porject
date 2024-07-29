@@ -190,6 +190,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/sweet-desserts",
     vercelLink: "https://sweet-desserts-zeta.vercel.app/",
   },
+  {
+    title: "7-oy 3-dars",
+    githubLink: "https://github.com/eldorahmed/multi-form",
+    vercelLink: "https://multi-form-liart.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
