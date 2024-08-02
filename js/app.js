@@ -195,6 +195,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/multi-form",
     vercelLink: "https://multi-form-liart.vercel.app/",
   },
+  {
+    title: "7-oy 5-dars",
+    githubLink: "https://github.com/eldorahmed/quizz-project",
+    vercelLink: "https://quizz-project-amber.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
