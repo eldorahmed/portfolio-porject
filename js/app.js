@@ -200,6 +200,16 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/quizz-project",
     vercelLink: "https://quizz-project-amber.vercel.app/",
   },
+  {
+    title: "7-oy 4-dars",
+    githubLink: "https://github.com/eldorahmed/loginPage",
+    vercelLink: "https://login-page-sooty-eight.vercel.app/",
+  },
+  {
+    title: "7-oy 6-dars",
+    githubLink: "https://github.com/eldorahmed/loginPage",
+    vercelLink: "https://login-page-sooty-eight.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
