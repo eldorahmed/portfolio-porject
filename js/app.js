@@ -215,6 +215,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/7-7dars",
     vercelLink: "https://7-7dars-sdh9.vercel.app/",
   },
+  {
+    title: "7-oy 11-dars",
+    githubLink: "https://github.com/eldorahmed/shopping-redux",
+    vercelLink: "https://shopping-redux-theta.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
