@@ -225,6 +225,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/comfy-shop",
     vercelLink: "https://comfy-shop.vercel.app/",
   },
+  {
+    title: "8.2-dars",
+    githubLink: "https://github.com/eldorahmed/Mortgage-Calculator-main",
+    vercelLink: "https://mortgage-calculator-chi-steel.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
