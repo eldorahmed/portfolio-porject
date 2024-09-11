@@ -235,6 +235,11 @@ const projects = [
     githubLink: "https://github.com/eldorahmed/github-user-search-app-master",
     vercelLink: "https://github-user-search-app-master.vercel.app/",
   },
+  {
+    title: "8.8 va 9-dars",
+    githubLink: "https://github.com/eldorahmed/8-9dars-main",
+    vercelLink: "https://8-9dars-main.vercel.app/login",
+  },
 ];
 
 const template = document.querySelector("template");
