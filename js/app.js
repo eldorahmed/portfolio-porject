@@ -241,6 +241,11 @@ const projects = [
     vercelLink: "https://tipcalculator-black.vercel.app/",
   },
   {
+    title: "8.7-dars",
+    githubLink: "https://github.com/eldorahmed/flag-finder",
+    vercelLink: "https://flag-finder-one.vercel.app/",
+  },
+  {
     title: "8.8 va 9-dars",
     githubLink: "https://github.com/eldorahmed/8-9dars-main",
     vercelLink: "https://8-9dars-main.vercel.app/login",
