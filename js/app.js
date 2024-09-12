@@ -236,6 +236,11 @@ const projects = [
     vercelLink: "https://github-user-search-app-master.vercel.app/",
   },
   {
+    title: "8.5-dars",
+    githubLink: "https://github.com/eldorahmed/tipcalculator",
+    vercelLink: "https://tipcalculator-black.vercel.app/",
+  },
+  {
     title: "8.8 va 9-dars",
     githubLink: "https://github.com/eldorahmed/8-9dars-main",
     vercelLink: "https://8-9dars-main.vercel.app/login",
