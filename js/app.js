@@ -246,9 +246,9 @@ const projects = [
     vercelLink: "https://flag-finder-one.vercel.app/",
   },
   {
-    title: "8.8 va 9-dars",
-    githubLink: "https://github.com/eldorahmed/8-9dars-main",
-    vercelLink: "https://8-9dars-main.vercel.app/login",
+    title: "8, 9, 10-dars",
+    githubLink: "https://github.com/eldorahmed/8-8dars",
+    vercelLink: "https://8-8dars-tawny.vercel.app/",
   },
 ];
 
